@@ -1,4 +1,4 @@
-# 01. A sample .NET or Node.js app hosted in Azure App Service
+# 01. A central Hub VNet with Azure Firewall
 
 ## Overview
 This section consolidates the governance and monitoring configuration created throughout the migration case study.  
