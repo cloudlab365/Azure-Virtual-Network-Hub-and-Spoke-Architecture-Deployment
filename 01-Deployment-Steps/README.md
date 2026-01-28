@@ -1,9 +1,3 @@
-Absolutely — here’s a **clean, professional, GitHub‑ready README section** focused entirely on **detailed deployment steps** for your Hub‑and‑Spoke Azure network architecture. It uses clear Markdown, headings, and a structure that hiring managers and engineers instantly recognise.
-
-You can paste this directly into your README.md or merge it with the earlier version.
-
----
-
 # 🚀 Deployment Steps
 
 This section provides a detailed, step‑by‑step guide for deploying the secure **Hub‑and‑Spoke network architecture** using Azure VNets, NSGs, and Azure Firewall.  
